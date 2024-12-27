@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @srimukhil
 - 👀 I’m interested in python coding
 - 🌱 I’m currently learning how python coding used in AI/ML
-- 💞️ I’m looking to collaborate on ay projects related to my intrest
+- 💞️ I’m looking to collaborate on any projects related to my interest
 - 📫 How to reach me please email me anytime srimukhilabrecque@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i love fashon designing but ended up stuck in IT
