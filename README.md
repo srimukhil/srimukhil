@@ -6,7 +6,7 @@
 - 📫 How to reach me please email me anytime srimukhilabrecque@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i love fashon designing but ended up stuck in IT field
-- Here is my linkedIn profile: 
+- Here is my linkedIn profile: https://www.linkedin.com/in/srimukhi/
 <!---
 srimukhil/srimukhil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
